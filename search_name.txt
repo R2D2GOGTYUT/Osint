@@ -1,0 +1,20 @@
+1. bankrot.fedresurs.ru — ИНН, СНИЛС, адрес
+2. bankrot.gov.by — должники Беларуси
+3. court.opendatabot.ua — судебные решения
+4. egr.gov.by — юр. лица и ИП
+5. e-justice.europa.eu — база должников по ЕС
+6. fa-fa.kz — долги, ИП, запреты на выезд
+7. fssprus.ru/iss/ip/ — долги физических лиц
+8. gcourts.ru — решения судов РФ
+9. gr.rcheph.by — регистрация товаров
+10. justbel.info — ликвидация юр. лиц
+11. kad.arbitr.ru — арбитражные дела
+12. kgd.gov.kz — недобросовестные налогоплательщики
+13. erb.minjust.gov.ua — реестр должников Украины
+14. mmnt.ru — документы и упоминания
+15. mtkrbti.by — лицензии, ФИО, адрес
+16. mvd.gov.by — розыскные дела
+17. service.nalog.ru/inn.do — поиск ИНН (РФ)
+18. data.notariat.ru — реестр наследств
+19. portal.nalog.gov.by — УНП Беларуси
+20. reestr-dover.ru — отмена доверенностей
